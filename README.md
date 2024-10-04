@@ -83,13 +83,13 @@ First 4 functionalities are required to be implemented as part of this technical
 
 6. Ensure that the cart data is persistent using localStorage. (Only if cart functionality is implemented)
 
+7. Write unit tests for at least one of the components using a testing library like Jest or React Testing Library.
+
 ### <ins>Bonus Features</ins>
 
 - Wishlist: Implement a wishlist feature where users can mark favorite products.
 
 - Product Reviews: Fetch and display reviews for each product.
-
-- Unit Testing: Write unit tests for at least one of the components using a testing library like Jest or React Testing Library.
 
 ## Submission
 
